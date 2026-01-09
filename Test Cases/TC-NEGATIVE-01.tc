@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-NEGATIVE-01</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>56f7d042-242d-4357-8f81-bb316d424484</testCaseGuid>
+</TestCaseEntity>
